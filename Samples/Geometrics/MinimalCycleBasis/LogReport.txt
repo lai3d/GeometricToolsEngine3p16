@@ -1,0 +1,7 @@
+
+GTE ERROR:
+File: e:\develop\allaboutquickgraph\geometrictoolsengine3p16\geometrictools\gtengine\source\applications\gtewindowbase.cpp
+Func: gte::WindowBase::GetGTEPath
+Line: 180
+You must create the environment variable GTE_PATH.
+
